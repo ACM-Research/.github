@@ -143,3 +143,7 @@ with game design or Unity/Unreal (hi ATEC majors), you're an ideal fit!
   <!-- RAINBOW LINE BOT -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+  <p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1026674363170299924/1180741421720944701/image.png?ex=657e8624&is=656c1124&hm=974ae24690ee14f70c74ce2f3123c24e49ed39b949b0233e5a8c46c5f374de3f&" width="25%"></a>
+</p>
+
