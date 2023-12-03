@@ -63,7 +63,7 @@ a positive or negative sentiment so that we can unravel the intricate emotions e
 
 <!--Victoria-->
 ### [Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/DisinfoDeception_public)
- <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Victoria%20Vynnychock-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaryaa%20Moharir-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Daniel%20Suh-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ermina%20Ashraf-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Izma%20Khurram-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Lerich%20Osay-gray">
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Victoria%20Vynnychok-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaryaa%20Moharir-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Daniel%20Suh-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ermina%20Ashraf-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Izma%20Khurram-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Lerich%20Osay-gray">
 ```
 Steganography is used to conceal information within plain sight, while Steganalysis is employed to reveal
 this information. You will hide messages within images and then utilize various techniques to detect and unveil
