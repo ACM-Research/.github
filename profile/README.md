@@ -26,7 +26,7 @@ practical applications in various fields, including human-computer interaction, 
 
 <!--Vaishnavi-->
 ### [Beyond Gaming: Exploring Interactive AI Virtual Streamers Using Neural Networks](https://github.com/ACM-Research/Baremetal_Programming)
- <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Vaishnavi 'Vivi'%20Josyula-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Abbas%20Khawaja-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Jose%20Garcia-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Korbin%20Shulz-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sowresh%20Medhicherla-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Terrell%20Johnson-gray">
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Vaishnavi 'Vivi'%20Josyula-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Abbas%20Khawaja-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Jose%20Garcia-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Korbin%20Shulz-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sowresh%20Mecheri Senthil-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Terrell%20Johnson-gray">
 ```
 Streaming has become a popular form of online entertainment with AI streamers recently gaining traction.
 In this project, you will combine multiple neural networks to create a virtual streamer who can play games,
@@ -48,39 +48,96 @@ in this setup. You will learn the basics of deep learning and blockchain to impl
   <!-- RAINBOW LINE BOT -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--BEN-->
-### [Colored Image Translation with CycleGAN](https://github.com/ACM-Research/Image-Transfer)
- <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Benjamin%20Bowers-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Nivedh%20Koya-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ompranay%20Yedluri-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ryan%20Joseph-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Saanvi%20Bala-gray">
+<!--Anish-->
+### [Coding Semantics: Exploring Movie Reviews Emotions Through Sentiment Analysis](https://github.com/ACM-Research/Image-Transfer)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Anish%20Nyalakonda-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ahmad%20Bajwa-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Aditya%20Kumar-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Atharva%20Biyani-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Jack%20Le-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Pranava%20Ravindran-gray">
 ```
-Images that are used as training data for machine learning are often more effective if they use a specific color scheme, 
-such as thermal coloring. Using CycleGAN, we will build a model that can convert a given photo from normal coloring to 
-specific colorings that are more effective as training data.
-```
-
-  <!-- RAINBOW LINE BOT -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!--CHRIS B-->
-### [DisinfoDeception: Using Adversarial Attacks to Deceive Political Disinformation Models on Twitter](https://github.com/ACM-Research/DisinfoDeception_public)
- <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Christopher%20Back-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Jonathan%20Serrano-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Joseph%20Wright-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Nathan%20Perez-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Vy%20Nguyen-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Victoria%20Vynnychok-gray">
-```
-You will attempt to fool machine learning models trained to detect political disinformation on Twitter using adversarial 
-learning. An adversarial attack feeds a model seemingly normal input data (adversarial examples) which is actually 
-designed to deceive the model into outputting an intended mistake. You will become involved with training the imitation 
-(victim) and attacker models, data scraping additional training datasets from Twitter posts, generating adversarial 
-examples, and testing the deception attacks. This project aims to identify if political actors can bypass detection 
-systems using adversarial learning to spread misinformation to fool public understanding of social media.
+We will be developing a sentiment analysis model for detecting whether a movie review is positive or negative.
+Specifically, we will be delving into Natural Language Processing (NLP) to construct a sentiment analysis model.
+Our primary objective is to create a Neural Network that is capable of ascertaining whether a given movie review carries
+a positive or negative sentiment so that we can unravel the intricate emotions embedded within movie reviews
 ```
 
   <!-- RAINBOW LINE BOT -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!--CHRIS S-->
-### [Wrist bone fracture detection using YOLOV7](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
- <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Christopher%20Sheppard-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Lalima%20Karri-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Lamisa%20Tahseen-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Vimal%20Sebastian-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Yukyang%20Cha-gray">
+<!--Victoria-->
+### [Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/DisinfoDeception_public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Victoria%20Vynnychock-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaryaa%20Moharir-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Daniel%20Suh-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ermina%20Ashraf-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Izma%20Khurram-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Lerich%20Osay-gray">
 ```
-Diagnosing wrist fractures requires time-consuming specialized training. We will use leading computer vision 
-algorithms for automated fracture detection.
+Steganography is used to conceal information within plain sight, while Steganalysis is employed to reveal
+this information. You will hide messages within images and then utilize various techniques to detect and unveil
+the concealed content. Afterward, you will train a machine learning model to classify images that contain hidden information.
+```
+
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!--Philip-->
+### [Enhancing Cancer Detection Through Natural Language Processing](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Philip%20Lee-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ela%20Guo-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Dravin%20Raj-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Joshua%20Valiaveedu-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Rishabh%20Medhi-gray">
+```
+We aim to rigorously evaluate the efficiency of a Large Language Model (LLM) represented by RoBERTa
+in addressing a critical classification challenge: the early detection of cancer. Throughout this study, you will gain a
+deep understanding of the Transformer Architecture which laid the foundation for all LLMs, and provide insights into addressing
+critical real-world challenges, contributing to your knowledge of both machine learning and medical applications.
+```
+  
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <!--Rishit-->
+### [Exploring Decentralized Applications on the High-Performance Solana Blockchain](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Rishit%20Viral-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ayusha%20Timalsena-gray"> <img alt="Research Member" src="https://img.shields.io/badge/Jackson-%20Copeland-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Raul%20Hernandez-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ridwan%20Shakoor-gray"> 
+<img alt="Research Member" src="https://img.shields.io/badge/-Sourish%20Pasula-gray">
+```
+Decentralized applications have emerged as a transformative force in the world of blockchain technology, enabling transparent, secure,
+and censorship-resistant interactions on a global scale. Among the emerging blockchain platforms, Solana stands out for its high-performance
+capabilities and scalability, making it a promising foundation for building dApps that can handle complex tasks and accommodate growing
+user demands. In this project, we delve into the exciting realm of decentralized applications on the Solana blockchain, exploring their
+potential to revolutionize industries and reshape the way we engage with digital services. Through comprehensive analysis and hands-on
+development, we aim to uncover Solana's unique features and advantages while addressing challenges and providing insights
+into the future landscape of decentralized applications.
+```
+  
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <!--Nivedha-->
+### [ForensicSight: Precise Crime Scene Bloodstain Classification](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Nivedha%20Sreenivasan-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aarushi%20Gupta-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Abis%20Naqvi-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Amulya%20Rayabhagi-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sriram%20Sendhil-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Zara%20Iqbal-gray">
+```
+To assist forensics experts in identifying what events took place at the scene of a crime, you will
+learn the basics of image classification and train a model using convolutional neural networks (CNNs)
+to classify bloodstain patterns commonly found in crime scenes into three categories: passive, transfer, and impact.
+```
+  
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <!--Rowan-->
+### [Leveraging Explainable AI to Mitigate Bias in Machine Learning Models](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Rowan%20White-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaron%20Barthwal-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Khiem%20Nguyen-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Laya%20Srinivas-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ram%20Gudur-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sanya%20Oak-gray">
+```
+AI is often seen as less biased than humans, but it can inherit biases from human-curated data,
+affecting its decisions. For example, biased hiring practices can lead AI to unfairly rank job resumes
+based on names. AI's inner workings are often unclear, creating transparency issues. This project delves
+into various AI models and how XAI can unveil their operations. As a team, you'll select a model and a
+real-world issue to explore, then use XAI to examine and improve that model.
+```
+  
+  <!-- RAINBOW LINE BOT -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+  <!--Naveen-->
+### [Scaffold: Breaking Down Complex Tasks with Reinforcement Learning](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+ <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Naveen%20Mukkatt-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Elijah%20Walker-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Luigi%20Victorelli-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Matthew%20Biji-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Renjit%20Joseph-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sophie%20Tran-gray">
+```
+Humans break down complex tasks into simpler steps, so what if we took the same approach towards
+teaching AIs how to navigate their environment? In Scaffold, you will try to answer this question
+by studying various reinforcement learning algorithms and applying them to AIs as they learn to navigate
+their environment. The AI will be piloting a 3D character in a game engine, so if you have familiarity
+with game design or Unity/Unreal (hi ATEC majors), you're an ideal fit!
 ```
   
   <!-- RAINBOW LINE BOT -->
