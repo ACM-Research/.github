@@ -14,7 +14,7 @@ ACM Research is a semester-long program designed for students who want to dive d
 
 <!--Saanvi-->
 ### [Auditory Unveil: Decoding Emotions in Speech Through Deep Learning](https://github.com/ACM-Research/AuditoryUnveil-DecodingEmotionsInSpeech)
-<a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Saanvi%20ABala-purple"></a><a href="#"> <img alt="Research Member"  src="https://img.shields.io/badge/-George%20Contreras-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Harper%20Wood-gray"> <img alt="Research Member"  src="https://img.shields.io/badge/-Leila%20Igwegbe-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Oscar%20Lay-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Thejaswin%20Kumaran-gray">
+<a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Saanvi%20Bala-purple"></a><a href="#"> <img alt="Research Member"  src="https://img.shields.io/badge/-George%20Contreras-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Harper%20Wood-gray"> <img alt="Research Member"  src="https://img.shields.io/badge/-Leila%20Igwegbe-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Oscar%20Lay-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Thejaswin%20Kumaran-gray">
 ```
 This project focuses on using audio analysis techniques in combination with a Convolutional Neural Network (CNN) model to detect
 emotions in speech. It's designed to provide a framework for understanding and recognizing emotions in spoken language, which has
