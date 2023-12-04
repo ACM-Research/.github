@@ -25,7 +25,7 @@ practical applications in various fields, including human-computer interaction, 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--Vaishnavi-->
-### [Beyond Gaming: Exploring Interactive AI Virtual Streamers Using Neural Networks](https://github.com/ACM-Research/Baremetal_Programming)
+### [Beyond Gaming: Exploring Interactive AI Virtual Streamers Using Neural Networks](https://github.com/ACM-Research/EXPLORING-INTERACTIVE-AI-VIRTUAL-STREAMERS-IN-2D-AND-VR-environments/tree/main)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Vaishnavi 'Vivi'%20Josyula-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Abbas%20Khawaja-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Jose%20Garcia-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Korbin%20Shulz-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sowresh%20Mecheri Senthil-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Terrell%20Johnson-gray">
 ```
 Streaming has become a popular form of online entertainment with AI streamers recently gaining traction.
@@ -38,7 +38,7 @@ to a streaming platform like Twitch.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--Rohan-->
-### [Blockchain-Based Federated Learning on the Ethereum Platform](https://github.com/ACM-Research/CardiothoraciDiagnosisPublicRepository)
+### [Blockchain-Based Federated Learning on the Ethereum Platform](https://github.com/ACM-Research/Blockchain-Based-Federated-Learning-Optimization)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Rohan%20Dave-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Akshat%20Sharma-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Bryant%20Hargreaves-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Dhruv%20Bansal-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Timothy%20Naumov-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Viswaretas%20Kotra-gray">
 ```
 Large model training demands immense computing power. Federated learning presents an innovative solution by leveraging
@@ -49,7 +49,7 @@ in this setup. You will learn the basics of deep learning and blockchain to impl
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--Anish-->
-### [Coding Semantics: Exploring Movie Reviews Emotions Through Sentiment Analysis](https://github.com/ACM-Research/Image-Transfer)
+### [Coding Semantics: Exploring Movie Reviews Emotions Through Sentiment Analysis](https://github.com/ACM-Research/Sentiment-Analysis-For-Movie-Reviews)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Anish%20Nyalakonda-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ahmad%20Bajwa-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Aditya%20Kumar-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Atharva%20Biyani-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Jack%20Le-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Pranava%20Ravindran-gray">
 ```
 We will be developing a sentiment analysis model for detecting whether a movie review is positive or negative.
@@ -62,7 +62,7 @@ a positive or negative sentiment so that we can unravel the intricate emotions e
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--Victoria-->
-### [Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/DisinfoDeception_public)
+### [Conceal and Reveal: Exploring Image Steganography and Steganalysis](https://github.com/ACM-Research/Conceal-and-Reveal)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Victoria%20Vynnychok-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaryaa%20Moharir-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Daniel%20Suh-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ermina%20Ashraf-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Izma%20Khurram-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Lerich%20Osay-gray">
 ```
 Steganography is used to conceal information within plain sight, while Steganalysis is employed to reveal
@@ -74,7 +74,7 @@ the concealed content. Afterward, you will train a machine learning model to cla
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!--Philip-->
-### [Enhancing Cancer Detection Through Natural Language Processing](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+### [Enhancing Cancer Detection Through Natural Language Processing](https://github.com/ACM-Research/Enhancing-Cancer-Detection-Through-Natural-Language-Processing)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Philip%20Lee-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ela%20Guo-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Dravin%20Raj-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Joshua%20Valiaveedu-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Rishabh%20Medhi-gray">
 ```
 We aim to rigorously evaluate the efficiency of a Large Language Model (LLM) represented by RoBERTa
@@ -87,7 +87,7 @@ critical real-world challenges, contributing to your knowledge of both machine l
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!--Rishit-->
-### [Exploring Decentralized Applications on the High-Performance Solana Blockchain](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+### [Exploring Decentralized Applications on the High-Performance Solana Blockchain](https://github.com/ACM-Research/Exploring-Decentralized-Applications-on-the-High-Performance-Solana-Blockchain)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Rishit%20Viral-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Ayusha%20Timalsena-gray"> <img alt="Research Member" src="https://img.shields.io/badge/Jackson-%20Copeland-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Raul%20Hernandez-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ridwan%20Shakoor-gray"> 
 <img alt="Research Member" src="https://img.shields.io/badge/-Sourish%20Pasula-gray">
 ```
@@ -104,7 +104,7 @@ into the future landscape of decentralized applications.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!--Nivedha-->
-### [ForensicSight: Precise Crime Scene Bloodstain Classification](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+### [ForensicSight: Precise Crime Scene Bloodstain Classification](https://github.com/ACM-Research/ForensicSight)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Nivedha%20Sreenivasan-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aarushi%20Gupta-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Abis%20Naqvi-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Amulya%20Rayabhagi-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sriram%20Sendhil-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Zara%20Iqbal-gray">
 ```
 To assist forensics experts in identifying what events took place at the scene of a crime, you will
@@ -116,7 +116,7 @@ to classify bloodstain patterns commonly found in crime scenes into three catego
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!--Rowan-->
-### [Leveraging Explainable AI to Mitigate Bias in Machine Learning Models](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+### [Leveraging Explainable AI to Mitigate Bias in Machine Learning Models](https://github.com/ACM-Research/Leveraging-XAI)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Rowan%20White-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Aaron%20Barthwal-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Khiem%20Nguyen-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Laya%20Srinivas-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Ram%20Gudur-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sanya%20Oak-gray">
 ```
 AI is often seen as less biased than humans, but it can inherit biases from human-curated data,
@@ -130,7 +130,7 @@ real-world issue to explore, then use XAI to examine and improve that model.
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
   <!--Naveen-->
-### [Scaffold: Breaking Down Complex Tasks with Reinforcement Learning](https://github.com/ACM-Research/WristFractureYOLOv7-Public)
+### [Scaffold: Breaking Down Complex Tasks with Reinforcement Learning](https://github.com/ACM-Research/Scaffolded)
  <a href="#"><img alt="Research Member" src="https://img.shields.io/badge/-Naveen%20Mukkatt-purple"> </a><a href="#"> <img alt="Research Member" src="https://img.shields.io/badge/-Elijah%20Walker-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Luigi%20Victorelli-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Matthew%20Biji-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Renjit%20Joseph-gray"> <img alt="Research Member" src="https://img.shields.io/badge/-Sophie%20Tran-gray">
 ```
 Humans break down complex tasks into simpler steps, so what if we took the same approach towards
